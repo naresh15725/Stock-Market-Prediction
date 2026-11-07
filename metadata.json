@@ -1,0 +1,6 @@
+{
+  "name": "Stock Market Price Prediction ML",
+  "description": "A machine learning web application analyzing historical stock market data to predict future prices using Linear Regression and Random Forest models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
